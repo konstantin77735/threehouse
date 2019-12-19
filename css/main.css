@@ -908,3 +908,33 @@ a.button-2:hover {
     flex-direction: row;
 }
 
+.container-fluid {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container-padding {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.container-padding2 {
+    padding-top: 90px;
+}
+
+.col-1-of-3 {
+    width: 33%;
+}
+
+.col-1-of-2 {
+    width: 50%;
+}
+
+.width-100percent {
+    width: 100%;
+}
+
+
+
+
